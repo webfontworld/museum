@@ -1,7 +1,7 @@
 # 박물관문화재단클래식(MuseumClassic)
 
 <a href="https://wess.tistory.com" target="_blank">
-    <img src="https://webfontworld.github.io/museum/MuseumClassic.jpg" alt="YangJin" style="width:300px">
+    <img src="https://webfontworld.github.io/museum/MuseumClassic.jpg" alt="MuseumClassicLight" style="width:300px">
 </a>
 <pre>
 @font-face {
